@@ -11,7 +11,7 @@ The price is fetched from the [_Binance API_](https://github.com/binance/binance
 
 ```console
 # clone the repo
-$ git clone https://github.com/Calypso-io/BitcoinNotifier
+$ git clone https://github.com/TribridStudio/BitcoinNotifier
 
 # change the working directory to Bitcoin Notifier
 $ cd BitcoinNotifier
